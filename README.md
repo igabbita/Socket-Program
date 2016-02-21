@@ -24,7 +24,8 @@ Execute the following commands
     > ./client2 rohan.sdsu.edu [Port_No]
 
 Order of Execution
-1. Login & Run Server.
+
+1. Login & Run Server
 2. Login and Run  Client 1 followed by Client 2
 
 
